@@ -1,0 +1,38 @@
+C:\Programare\Visual Studio 2022\PAW\Productie\bin\Debug\Productie.exe.config
+C:\Programare\Visual Studio 2022\PAW\Productie\bin\Debug\Productie.exe
+C:\Programare\Visual Studio 2022\PAW\Productie\bin\Debug\Productie.pdb
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.csproj.AssemblyReference.cache
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.Form1.resources
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.Form2.resources
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.Properties.Resources.resources
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.csproj.GenerateResource.cache
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.exe
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.pdb
+C:\Programare\Visual Studio 2022\PAW\Productie\obj\Debug\Productie.Form3.resources
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\bin\Debug\Productie.exe.config
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\bin\Debug\Productie.exe
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\bin\Debug\Productie.pdb
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.Form1.resources
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.Form2.resources
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.Form3.resources
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.Properties.Resources.resources
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.exe
+C:\Users\Alex\Source\Repos\PAW\Proiect FAZA 1\Productie\obj\Debug\Productie.pdb
+C:\Users\Alex\source\repos\Productie\bin\Debug\Productie.exe.config
+C:\Users\Alex\source\repos\Productie\bin\Debug\Productie.exe
+C:\Users\Alex\source\repos\Productie\bin\Debug\Productie.pdb
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.Form1.resources
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.Form2.resources
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.Form3.resources
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.Properties.Resources.resources
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.exe
+C:\Users\Alex\source\repos\Productie\obj\Debug\Productie.pdb
