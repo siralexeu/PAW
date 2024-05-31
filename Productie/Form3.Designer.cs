@@ -38,7 +38,7 @@ namespace Productie
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1384, 805);
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "Productia3";
             this.Load += new System.EventHandler(this.Form3_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form3_Paint);
             this.ResumeLayout(false);

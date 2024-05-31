@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Productie
 {
     [Serializable]
-    internal class Produs
+    public class Produs
     {
         public string Nume { get; set; }
         public int LotFabricatie { get; set; }
