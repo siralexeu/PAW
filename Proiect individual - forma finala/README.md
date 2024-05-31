@@ -1,7 +1,7 @@
 Proiecte C#
 
-Producţie 
+Domeniul: Producţie 
 
-Produse, LotFabricatie, FisaConsum
+Observaţi: Produse, LotFabricatie, FisaConsum
 
-Cavaler Ş A Alexandru-Cristian
+Student: Cavaler Ş A Alexandru-Cristian
