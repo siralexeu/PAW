@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbProductieModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblProdus">
+    <Key>
+      <PropertyRef Name="numeProdus" />
+    </Key>
+    <Property Name="numeProdus" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="lotFabricatie" Type="Int32" />
+    <Property Name="fisaConsum" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="dbProductieEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblProdus1" EntityType="dbProductieModel.tblProdus" />
+  </EntityContainer>
+</Schema>
