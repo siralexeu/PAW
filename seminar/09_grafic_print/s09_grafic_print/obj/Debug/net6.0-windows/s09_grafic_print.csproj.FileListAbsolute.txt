@@ -1,0 +1,33 @@
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.Form1.resources
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.csproj.GenerateResource.cache
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.AssemblyInfo.cs
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.exe
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.deps.json
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.runtimeconfig.json
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.dll
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.pdb
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.dll
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\refint\s09_grafic_print.dll
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.pdb
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.genruntimeconfig.cache
+C:\Users\stud\source\repos\s09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\ref\s09_grafic_print.dll
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.exe
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.deps.json
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.runtimeconfig.json
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.dll
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\bin\Debug\net6.0-windows\s09_grafic_print.pdb
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.Form1.resources
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.csproj.GenerateResource.cache
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.AssemblyInfoInputs.cache
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.AssemblyInfo.cs
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.csproj.CoreCompileInputs.cache
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.dll
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\refint\s09_grafic_print.dll
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.pdb
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.genruntimeconfig.cache
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\ref\s09_grafic_print.dll
+C:\Programare\Visual Studio 2022\PAW\09_grafic_print\s09_grafic_print\obj\Debug\net6.0-windows\s09_grafic_print.Form2.resources
