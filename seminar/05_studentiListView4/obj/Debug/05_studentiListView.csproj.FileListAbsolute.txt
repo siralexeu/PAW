@@ -1,0 +1,67 @@
+T:\05_studentiListView\bin\Debug\05_studentiListView.exe.config
+T:\05_studentiListView\bin\Debug\05_studentiListView.exe
+T:\05_studentiListView\bin\Debug\05_studentiListView.pdb
+T:\05_studentiListView\obj\Debug\05_studentiListView.csproj.AssemblyReference.cache
+T:\05_studentiListView\obj\Debug\_05_studentiListView.Form1.resources
+T:\05_studentiListView\obj\Debug\_05_studentiListView.Properties.Resources.resources
+T:\05_studentiListView\obj\Debug\05_studentiListView.csproj.GenerateResource.cache
+T:\05_studentiListView\obj\Debug\05_studentiListView.csproj.CoreCompileInputs.cache
+T:\05_studentiListView\obj\Debug\05_studentiListView.exe
+T:\05_studentiListView\obj\Debug\05_studentiListView.pdb
+D:\05_studentiListView\bin\Debug\05_studentiListView.exe.config
+D:\05_studentiListView\bin\Debug\05_studentiListView.exe
+D:\05_studentiListView\bin\Debug\05_studentiListView.pdb
+D:\05_studentiListView\obj\Debug\05_studentiListView.csproj.AssemblyReference.cache
+D:\05_studentiListView\obj\Debug\_05_studentiListView.Form1.resources
+D:\05_studentiListView\obj\Debug\_05_studentiListView.Form2.resources
+D:\05_studentiListView\obj\Debug\_05_studentiListView.Properties.Resources.resources
+D:\05_studentiListView\obj\Debug\05_studentiListView.csproj.GenerateResource.cache
+D:\05_studentiListView\obj\Debug\05_studentiListView.csproj.CoreCompileInputs.cache
+D:\05_studentiListView\obj\Debug\05_studentiListView.exe
+D:\05_studentiListView\obj\Debug\05_studentiListView.pdb
+E:\05_studentiListView4\bin\Debug\05_studentiListView.exe.config
+E:\05_studentiListView4\bin\Debug\05_studentiListView.exe
+E:\05_studentiListView4\bin\Debug\05_studentiListView.pdb
+E:\05_studentiListView4\obj\Debug\05_studentiListView.csproj.AssemblyReference.cache
+E:\05_studentiListView4\obj\Debug\_05_studentiListView.Form1.resources
+E:\05_studentiListView4\obj\Debug\_05_studentiListView.Form2.resources
+E:\05_studentiListView4\obj\Debug\_05_studentiListView.Properties.Resources.resources
+E:\05_studentiListView4\obj\Debug\05_studentiListView.csproj.GenerateResource.cache
+E:\05_studentiListView4\obj\Debug\05_studentiListView.csproj.CoreCompileInputs.cache
+E:\05_studentiListView4\obj\Debug\05_studentiListView.exe
+E:\05_studentiListView4\obj\Debug\05_studentiListView.pdb
+C:\Users\Alex\source\repos\05_studentiListView4\bin\Debug\05_studentiListView.exe.config
+C:\Users\Alex\source\repos\05_studentiListView4\bin\Debug\05_studentiListView.exe
+C:\Users\Alex\source\repos\05_studentiListView4\bin\Debug\05_studentiListView.pdb
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\05_studentiListView.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\05_studentiListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\_05_studentiListView.Form1.resources
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\_05_studentiListView.Form2.resources
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\_05_studentiListView.Properties.Resources.resources
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\05_studentiListView.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\05_studentiListView.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\05_studentiListView.exe
+C:\Users\Alex\source\repos\05_studentiListView4\obj\Debug\05_studentiListView.pdb
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\bin\Debug\05_studentiListView.exe.config
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\bin\Debug\05_studentiListView.exe
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\bin\Debug\05_studentiListView.pdb
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\05_studentiListView.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\05_studentiListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\_05_studentiListView.Form1.resources
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\_05_studentiListView.Form2.resources
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\_05_studentiListView.Properties.Resources.resources
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\05_studentiListView.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\05_studentiListView.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\05_studentiListView.exe
+C:\Users\Alex\source\repos\PAW\05_studentiListView4\obj\Debug\05_studentiListView.pdb
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\bin\Debug\05_studentiListView.exe.config
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\bin\Debug\05_studentiListView.exe
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\bin\Debug\05_studentiListView.pdb
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\05_studentiListView.csproj.AssemblyReference.cache
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\_05_studentiListView.Form1.resources
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\_05_studentiListView.Form2.resources
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\_05_studentiListView.Properties.Resources.resources
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\05_studentiListView.csproj.GenerateResource.cache
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\05_studentiListView.csproj.CoreCompileInputs.cache
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\05_studentiListView.exe
+C:\Programare\Visual Studio 2022\PAW\05_studentiListView4\obj\Debug\05_studentiListView.pdb
