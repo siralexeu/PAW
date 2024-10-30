@@ -1,0 +1,30 @@
+T:\Seminar3_1051\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+T:\Seminar3_1051\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+T:\Seminar3_1051\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+T:\Seminar3_1051\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+T:\Seminar3_1051\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+T:\Seminar3_1051\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+T:\Seminar3_1051\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+T:\Seminar3_1051\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+T:\Seminar3_1051\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+T:\Seminar3_1051\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+D:\Restaurant_1051\Restaurant\bin\Debug\Restaurant.exe
+D:\Restaurant_1051\Restaurant\bin\Debug\Restaurant.exe.config
+D:\Restaurant_1051\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+D:\Restaurant_1051\Restaurant\obj\Debug\Restaurant.Form1.resources
+D:\Restaurant_1051\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+D:\Restaurant_1051\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+D:\Restaurant_1051\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+D:\Restaurant_1051\Restaurant\obj\Debug\Restaurant.exe
+D:\Restaurant_1051\Restaurant\obj\Debug\Restaurant.pdb
+D:\Restaurant_1051\Restaurant\bin\Debug\Restaurant.pdb
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\bin\Debug\Restaurant.exe
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\bin\Debug\Restaurant.pdb
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\obj\Debug\Restaurant.exe
+C:\Programare\Visual Studio 2022\PAW\2_Restaurant_1051\Restaurant\obj\Debug\Restaurant.pdb
