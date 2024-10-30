@@ -1,0 +1,16 @@
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\13_BD_Parc_Auto.csproj.AssemblyReference.cache
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\_13_BD_Parc_Auto.Form1.resources
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\_13_BD_Parc_Auto.Form2.resources
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\_13_BD_Parc_Auto.Properties.Resources.resources
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\13_BD_Parc_Auto.csproj.GenerateResource.cache
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\13_BD_Parc_Auto.csproj.CoreCompileInputs.cache
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\bin\Debug\13_BD_Parc_Auto.exe.config
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\bin\Debug\13_BD_Parc_Auto.exe
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\bin\Debug\13_BD_Parc_Auto.pdb
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\bin\Debug\EntityFramework.dll
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\bin\Debug\EntityFramework.xml
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\13_BD_Pa.D9AA191D.Up2Date
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\13_BD_Parc_Auto.exe
+C:\Programare\Visual Studio 2022\PAW\13_BD_Parc_Auto\obj\Debug\13_BD_Parc_Auto.pdb
