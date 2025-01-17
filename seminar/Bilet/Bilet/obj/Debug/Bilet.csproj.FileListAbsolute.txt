@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\bin\Debug\Bilet.exe.config
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\bin\Debug\Bilet.exe
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\bin\Debug\Bilet.pdb
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.Form1.resources
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.Properties.Resources.resources
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.exe
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.pdb
+C:\Users\Alex\source\repos\PAW\Bilet\Bilet\obj\Debug\Bilet.Form2.resources
